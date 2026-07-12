@@ -3,7 +3,7 @@
 Étudiant en première année du cycle ingénieur à l'ESIGELEC , Rouen , en train d'apprendre les bases de la cybersécurité.
 
 ## 🔄 En cours
-- Bases Linux avec OverTheWire (Bandit) — write-ups dans /writeups
+- Bases Linux avec OverTheWire (Bandit) — write-ups  dans /overthewire/bandit
 
 ## 🎓 Expérience
 - Stage académique en télécommunications (GNOC/SMC, Celtiis-Huawei) — juillet-août 2025
