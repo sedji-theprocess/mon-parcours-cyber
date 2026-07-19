@@ -10,4 +10,4 @@
 ssh -p 2220 bandit0@bandit.labs.overthewire.org 
 
 **Ce que j'ai appris :**
-J'ai appris à me connecter à un serveur en utilisant la fameuse commmande ssh 
+J'ai appris à me connecter à un serveur en utilisant la fameuse commmande 'ssh'
